@@ -18,3 +18,16 @@ h2 {
     font-size: 30px;
     color: #333;
 }
+
+.recipes-links {
+    text-align: center;
+    list-style: none;
+    
+}
+
+.recipes-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
